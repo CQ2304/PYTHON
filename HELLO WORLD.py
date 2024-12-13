@@ -1,3 +1,3 @@
-print("HELLO WORLD!")
-print("HOLA MUNDO!")
-print("BONJOUR LE MONDE!")
+print("HELLO WORLD!!")
+print("HOLA MUNDO!!")
+print("BONJOUR LE MONDE!!")
